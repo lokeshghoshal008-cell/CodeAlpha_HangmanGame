@@ -1,4 +1,4 @@
-
+hangman.py
 import random
 
 words = ["apple", "python", "cricket", "computer", "school"]
